@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/zulujive/messaging/edit/gh-page/README.md) to maintain and preview the content for your website in Markdown files.
+Solutions to bad code, because code sucks and guess what I'm going to make it better because who knew installing a certain piece of software for developers required experience just to do that. People should be able to start doing code with ease, continue to do it with ease, AND STOP USING TERMINAL FOR EVERYTHING.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
